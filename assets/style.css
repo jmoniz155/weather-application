@@ -2,15 +2,12 @@ body {
     color:rgb(247, 245, 245)
 }
 
-
 h1 {
     color:rgb(10, 25, 161)
 }
 
-
-
 footer {
     text-align: center;
-    font-size: 3vw;
+    font-size: 2vw;
     color: rgb(10, 54, 151);
 }
