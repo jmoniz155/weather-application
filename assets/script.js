@@ -145,7 +145,20 @@ $(document).ready(function () {
       dataType: "json",
       success: function (data) {
         var uv = $("<p>").text("UV Index: ");
-        var btn = $("<span>").addClass("btn btn-sm").text(data.value);
+        var btn = $("<span>").addClass("btn btn-sm").text(data.value); 
+        
+        // change color depending on uv value
+        if (data.value < 3) {
+          btn.addClass("btn-success");
+        } else if (data.value < 7) {
+          btn.addClass("btn-warning");
+        } else {
+          btn.addClass("btn-danger");
+        }
+
+        $("#today .card-body").append(uv.append(btn));t(data.value);
+
+
     },
       });
     }
