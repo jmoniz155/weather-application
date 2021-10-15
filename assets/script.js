@@ -31,7 +31,7 @@ $(document).ready(function () {
         url:
           "https://api.openweathermap.org/data/2.5/weather?q=" +
           searchValue +
-          "&appid=87d907df5efa6ff8b7d23d4b308e1a32&units=imperial",
+          "&appid=d1b9ff6f54a8c069b2ab2e16bc900b98&units=imperial",
         dataType: "json",
         success: function (data) {
           // create history link for this search

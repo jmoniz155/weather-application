@@ -14,11 +14,11 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 ## Table of Contents
 
-[Description](description)
+[Description](#description)
 
-[googleLinks](googleLinks)
+[googleLinks](#googleLinks)
 
-[Features](features)
+[Features](#features)
 
 [Repository](https://github.com/jmoniz155/weather-application)
 
