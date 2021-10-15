@@ -16,7 +16,7 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 [Description](#description)
 
-[googleLinks](#googleLinks)
+[Study-Material](#Study-Material)
 
 [Features](#features)
 
@@ -25,7 +25,7 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 [liveWebsite](https://jmoniz155.github.io/weather-application/)
 
 
-## Study Material
+## Study-Material
 
 <a>google:<a href="#">https://openweathermap.org/
 
